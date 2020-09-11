@@ -1,11 +1,31 @@
-﻿<Properties StartupConfiguration="{D684F179-3C75-4E8D-8DEC-25642E671F6F}|Default">
-  <MonoDevelop.Ide.ItemProperties.CustomRenderers.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{22E8CDE4-8329-4B78-8D1D-8971FD224F9F}|Default">
+  <MonoDevelop.Ide.ItemProperties.CustomRenderers.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.75D6E44A-5A85-45B3-8390-4086DAA388D9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomRenderers.Android/Resources/layout/rounded_shape.xml">
+    <Files>
+      <File FileName="CustomRenderers/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="CustomRenderers/Customes/RoundedEntry.cs" Line="6" Column="35" />
+      <File FileName="CustomRenderers.iOS/Customs/RoundedEntryRendererIOS.cs" Line="30" Column="14" />
+      <File FileName="CustomRenderers.Android/Customs/RoundedEntryRendererDroid.cs" Line="25" Column="113" />
+      <File FileName="CustomRenderers.Android/Resources/layout/rounded_shape.xml" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CustomRenderers" expanded="True">
-            <Node name="CustomRenderers" selected="True" />
+            <Node name="CustomRenderers" expanded="True">
+              <Node name="Customs" expanded="True" />
+            </Node>
+            <Node name="CustomRenderers.Android" expanded="True">
+              <Node name="Customs" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="rounded_shape.xml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="CustomRenderers.iOS" expanded="True">
+              <Node name="Customs" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -14,7 +34,7 @@
   <MonoDevelop.Ide.ItemProperties.CustomRenderers FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.CustomRenderers.Android FirstBuild="True" PreferredExecutionTarget="Android.LDGNW18511008472" />
+  <MonoDevelop.Ide.ItemProperties.CustomRenderers.Android AndroidDesignerPreferredTheme="MainTheme" FirstBuild="True" PreferredExecutionTarget="Android.LDGNW18511008472" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

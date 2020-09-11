@@ -21,6 +21,7 @@ background;obj/Debug/res/mipmap-anydpi-v26/icon.xml
 background;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
 cache-path;/Users/dmn/Projects/CustomRenderers/CustomRenderers.Android/obj/Debug/lp/38/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
 color;obj/Debug/res/values/colors.xml
+corners;obj/Debug/res/layout/rounded_shape.xml
 external-cache-path;/Users/dmn/Projects/CustomRenderers/CustomRenderers.Android/obj/Debug/lp/38/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
 external-path;/Users/dmn/Projects/CustomRenderers/CustomRenderers.Android/obj/Debug/lp/38/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj/Debug/res/mipmap-anydpi-v26/icon.xml
@@ -36,6 +37,9 @@ set;/Users/dmn/Projects/CustomRenderers/CustomRenderers.Android/obj/Debug/lp/39/
 set;/Users/dmn/Projects/CustomRenderers/CustomRenderers.Android/obj/Debug/lp/39/jl/res/anim/enterfromright.xml
 set;/Users/dmn/Projects/CustomRenderers/CustomRenderers.Android/obj/Debug/lp/39/jl/res/anim/exittoleft.xml
 set;/Users/dmn/Projects/CustomRenderers/CustomRenderers.Android/obj/Debug/lp/39/jl/res/anim/exittoright.xml
+shape;obj/Debug/res/layout/rounded_shape.xml
+solid;obj/Debug/res/layout/rounded_shape.xml
+stroke;obj/Debug/res/layout/rounded_shape.xml
 style;/Users/dmn/Projects/CustomRenderers/CustomRenderers.Android/obj/Debug/lp/39/jl/res/values/styles.xml
 style;obj/Debug/res/values/styles.xml
 translate;/Users/dmn/Projects/CustomRenderers/CustomRenderers.Android/obj/Debug/lp/39/jl/res/anim/enterfromleft.xml

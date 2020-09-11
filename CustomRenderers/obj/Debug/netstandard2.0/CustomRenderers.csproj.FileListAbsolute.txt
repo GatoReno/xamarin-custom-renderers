@@ -1,0 +1,14 @@
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/bin/Debug/netstandard2.0/CustomRenderers.deps.json
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/bin/Debug/netstandard2.0/CustomRenderers.dll
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/bin/Debug/netstandard2.0/ref/CustomRenderers.dll
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/bin/Debug/netstandard2.0/CustomRenderers.pdb
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/obj/Debug/netstandard2.0/CustomRenderers.AssemblyInfoInputs.cache
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/obj/Debug/netstandard2.0/CustomRenderers.AssemblyInfo.cs
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/obj/Debug/netstandard2.0/CustomRenderers.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/obj/Debug/netstandard2.0/CustomRenderers.dll
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/obj/Debug/netstandard2.0/ref/CustomRenderers.dll
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/obj/Debug/netstandard2.0/CustomRenderers.pdb
+/Users/dmn/Projects/CustomRenderers/CustomRenderers/obj/Debug/netstandard2.0/CustomRenderers.csprojAssemblyReference.cache
