@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{D684F179-3C75-4E8D-8DEC-25642E671F6F}|Default">
+  <MonoDevelop.Ide.ItemProperties.CustomRenderers.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomRenderers" expanded="True">
+            <Node name="CustomRenderers" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CustomRenderers FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CustomRenderers.Android FirstBuild="True" PreferredExecutionTarget="Android.LDGNW18511008472" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
